@@ -25,6 +25,9 @@ I'm currently enrolled in Springboard's Software Engineer Career Track with an a
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg"  width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg"  width="40" height="40">
 </div>
+<hr>
+:fire: My Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zanderfeldt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Zanderfeldt/Zanderfeldt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
