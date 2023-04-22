@@ -28,7 +28,7 @@ I'm currently enrolled in Springboard's Software Engineer Career Track with an a
 <hr></hr>
 
 :fire: My Stats : 
-## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanderfeldt&langs_count=8)
+## ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanderfeldt&langs_count=5)
 ![Zanderfeldt's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zanderfeldt)
 
 <!--
