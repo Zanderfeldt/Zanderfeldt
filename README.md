@@ -2,7 +2,7 @@
 
 I am a Full-Stack Software Developer with an affinity for front end.
 
-I'm currently enrolled in Springboard's Software Engineer Career Track with an approximate completion date of September 2023.
+Graduated from Springboard's Software Engineer Career Track with and seeking projects at the intersection of music-tech and software development.
 
 <hr></hr>
 :hammer_and_wrench: Languages and Tools :
