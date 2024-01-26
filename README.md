@@ -2,7 +2,7 @@
 
 I am a Full-Stack Software Developer with an affinity for front end.
 
-Graduated from Springboard's Software Engineer Career Track with and seeking projects at the intersection of music-tech and software development.
+Graduated from Springboard's Software Engineer Career Track and seeking projects at the intersection of music-tech and software development.
 
 <hr></hr>
 :hammer_and_wrench: Languages and Tools :
